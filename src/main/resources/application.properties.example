@@ -1,0 +1,2 @@
+spring.application.name=gemini-experiment
+gemini.api.key = YOUR_API_KEY
