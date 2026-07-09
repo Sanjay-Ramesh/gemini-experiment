@@ -3,7 +3,7 @@
 > Spring Boot + Google Gemini API — one evening curiosity build
 
 ## What It Does
-Single endpoint — send a question, get an AI response back.
+Single endpoint — send a question, get an AI response back
 `GET /ask?question=What is Spring Boot`
 
 ## Tech Stack
